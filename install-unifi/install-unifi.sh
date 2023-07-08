@@ -154,6 +154,7 @@ AddPkg libXtst
 AddPkg libXrender
 AddPkg libinotify
 AddPkg jpeg-turbo
+AddPkg lcms2
 AddPkg javavmwrapper
 AddPkg java-zoneinfo
 AddPkg openjdk11
