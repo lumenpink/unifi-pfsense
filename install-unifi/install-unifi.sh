@@ -161,6 +161,7 @@ AddPkg snappy
 AddPkg cyrus-sasl
 AddPkg icu
 AddPkg boost-libs
+AddPkg curl
 AddPkg ${CURRENT_MONGODB_VERSION}
 AddPkg unzip
 AddPkg pcre
